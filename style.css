@@ -1,0 +1,144 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin:0;
+}
+h1{
+    font-size: 45px;
+    margin: 0 auto;
+
+}
+
+h2{
+    font-size: 33px;
+    margin: 0 auto;
+
+}
+
+p{
+    display: block;
+}
+
+.orange-color{
+    color: orange;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 7%;
+    padding-right: 3%;
+}
+.half-width img{
+    width:100%;    
+}
+
+#imgChef{
+    width: 40%;
+    height: 50%;
+}
+
+section{
+    display: flex;
+}
+#content{
+    padding-top:8%;
+
+}
+#content2{
+    padding-top:8%;
+
+}
+.link-button{
+    padding: 10px 20px;
+    text-decoration: none;
+    font-weight: 400;
+    color: white;
+    background-image: linear-gradient(rgb(106 183 239) , rgb(25 125 199));
+    border-radius: 30px;
+    font-size: 14px;
+}
+
+#content2 p{
+    padding-bottom: 40px;
+}
+.about-me{
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.menu{
+    
+    padding: 2% 25%;
+}
+
+.menu p{
+    text-align: center;
+    display: block;
+    padding: 0 30px 0 30px;
+}
+h3{
+    display: block;
+    font-size: 28px;
+    text-align: center;
+    
+}
+
+h4{
+    color: white;
+    padding-bottom: 10px;
+    display: block;
+    font-size: 28px;
+    text-align: center;
+    
+}
+.footer{
+    text-align: center;
+    height: 150px;
+    padding-top: 30px;
+    background-color: rgb(0, 0, 0);
+    display: block;
+}
+.footer p{
+    display: block;
+    color: rgb(196, 187, 187);
+    font-size: 15px;
+}
+
+.followers{
+    display: flex;
+    box-shadow: 5px 7px 40px rgb(85 116 136 / 82%);
+    border-radius: 10px;
+    margin: 50px 100px;
+    padding: 0px 257px;
+}
+.followers-item1{
+    width:33.33%;
+    text-align: center;
+    padding: 30px;
+}
+.followers-item2{
+    width:33.33%;
+    text-align: center;
+    padding: 30px;
+}
+.followers-item2{
+    width:33.34%;
+    text-align: center;
+    padding: 30px;
+}
+
+.menu-chart{
+    display: flex;
+    margin-bottom: 50px;
+}
+.menu-item{
+    width: 30%;
+    padding-left: 3%;
+    padding-right: 3%;
+}    
+.menu-item img{
+    width: 100%;
+    box-shadow: 5px 7px 40px rgb(85 116 136 / 82%);
+    border: 10px solid white;
+    border-radius: 22px;}
